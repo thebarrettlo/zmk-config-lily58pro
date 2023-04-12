@@ -1,7 +1,7 @@
 manifest:
   remotes:
     - name: bobobo1618   # zmkfirmware
-      url-base: https://github.com/bobobo1618/zephyr/tree/fix-oled   # https://github.com/zmkfirmware
+      url-base: https://github.com/bobobo1618/   # https://github.com/zmkfirmware
   projects:
     - name: zephyr   # zmk
       remote: bobobo1618   # zmkfirmware

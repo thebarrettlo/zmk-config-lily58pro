@@ -6,6 +6,6 @@ manifest:
     - name: zephyr   # zmk
       remote: bobobo1618   # zmkfirmware
       revision: fix-oled   # main
-      import: app/west.yml
+      import: west.yml   # app/west.yml
   self:
     path: config
